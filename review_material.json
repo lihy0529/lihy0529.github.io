@@ -8,6 +8,11 @@
       "file": "files/algo_design_and_analysis.pdf"
     },
     {
+      "course": "Algo. Design & Analysis",
+      "description": "introduction to the famous paper",
+      "file": "files/primes_is_in_P_note.pdf"
+    },
+    {
       "course": "Computer Network",
       "description": "notes",
       "file": "files/computer_network.pdf"
@@ -41,10 +46,6 @@
       "course": "OS",
       "description": "notes before mid-term",
       "file": "files/os_mid.pdf"
-    },
-    {
-      "description": "introduction to the famous paper",
-      "file": "files/primes_is_in_P_note.pdf"
     },
     {
       "course": "TCS",
