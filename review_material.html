@@ -1,27 +1,87 @@
-<!doctype html>
-<html lang="en" class="no-js">
+<!DOCTYPE html>
+<html>
+
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Review Material</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Review Material</title>
+
+
+  <link href="https://cdn.jsdelivr.net/npm/@mdi/font@6.x/css/materialdesignicons.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.css" rel="stylesheet">
+
 </head>
+
 <body>
-<header>
-  <h1 align = "center">Review Materials for courses in PKU</h1>
-</header>
-<div id="wrapall">
-	<div id="main">
-		<section id="page">
-			<main>
-				<article>
-					<h2>Why We Publish These Notes</h2>
-          <p></p>
-        </article>
-        <footer>
-          <p>&copy; This page is published based on the template from <a rel="nofollow" href="https://html5-templates.com/" target="_blank" rel="nofollow">HTML5&nbsp;Templates</a></p>
-        </footer>
-			</main>
-		</section>
-	</div>
-</div>
+  <div id="app">
+    <v-app>
+      <v-main>
+        <v-container>
+          <h1 class="text-h2 py-6 text-center">Review Materials for courses in PKU</h1>
+          <h3 class="text-h5 pt-3">All review materials</h3>
+          <v-simple-table class="pt-2">
+            <template v-slot:default>
+              <thead>
+                <tr>
+                  <th class="text-left">Description</th>
+                  <th class="text-left">Download</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr v-for="item in materials" :key="item.file">
+                  <td>
+                    <strong>{{ item.course }}</strong>
+                    : {{ item.description }}
+                  </td>
+                  <td>
+                    <v-btn @click="gotoFile(item.file)" class="text-none">
+                      <v-icon>mdi-download</v-icon>
+                      <span class="d-none d-sm-inline">{{ item.file }}</span>
+                    </v-btn>
+                  </td>
+                </tr>
+              </tbody>
+            </template>
+          </v-simple-table>
+					<h3 class="text-h5 pt-3">Why We Publish These Notes</h3>
+          <p class="text--disabled pt-2">(TBA)</p>
+        </v-container>
+      </v-main>
+      <v-footer class="text--secondary">
+        <v-row no-gutters>
+          <v-spacer></v-spacer>
+          <v-col cols="10">
+            <p>Copyright &copy; <code>ntguojiarui</code> & <code>Guyutongxue</code> 2022</p>
+            <p>This page could not have been created without <a href="https://vuejs.org" target="_blank">Vue.js</a>, <a href="https://vuetifyjs.com" target="_blank">Vuetify</a> and other open source software. Thanks for their hard work.</p>
+          </v-col>
+          <v-spacer></v-spacer>
+        </v-row>
+      </v-footer>
+    </v-app>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.js"></script>
+  <script>
+    new Vue({
+      el: '#app',
+      data: {
+        materials: [],
+      },
+      created: async function () {
+        const materialJson = await fetch('./review_material.json').then(r => r.json());
+        this.materials = materialJson.materials;
+      },
+      methods: {
+        gotoFile(file) {
+          const url = 'https://cdn.jsdelivr.net/gh/ntguojiarui/ntguojiarui.github.io@main/' + file;
+          window.open(url, '_blank');
+        }
+      },
+      vuetify: new Vuetify(),
+    })
+  </script>
+
 </body>
+
+</html>
