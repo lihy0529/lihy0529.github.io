@@ -12,4 +12,4 @@ I'm Haoyu, a final-year undergraduate student at Turing Class, Peking Universtiy
 ## Publications
 
 [1] Stingy sketch: a sketch framework for accurate and fast frequency estimation (VLDB2022) [[PDF]](https://www.vldb.org/pvldb/vol15/p1426-li.pdf).
-Haoyu Li\*, Qizhi Chen\*, Yixin Zhang, Tong Yang, Bin Cui.
+**Haoyu Li**\*, Qizhi Chen\*, Yixin Zhang, Tong Yang, Bin Cui.
