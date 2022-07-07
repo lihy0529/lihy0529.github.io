@@ -12,45 +12,39 @@ redirect_from:
 Education
 ======
 * (Expected) B.S. in Computer Science and Technology (Turing Class), [Peking University](https://english.pku.edu.cn/), 2018 - 2023. 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Working Experience
+======
+* 2020-Present: Research assistant advised by Prof. Tong Yang, Peking Univ.
+* 2022-Present: Summer research advised by Prof. Minlan Yu, Harvard Univ.
+
+Service & Leadership
+======
+* In Peking Univ.
+  * 2020-2023: Class Monitor.
+  * Spring 2022: Chair of Turing Student Research Forum.
+  * Fall 2021: TA for class *Introduction to Computer Systems*.
+  * Fall 2021: Counselor of Freshman Training Camp.
+  * 2020-2021: Leader of the College Debating Team.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++/Python/Java/Verilog.
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* See my frontpage.
+
+Scholarships & Honors
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+*	Fall 2020 & Fall 2021: National Scholarship.
+*	Spring 2020: The “Zhongying Tang” Moral Education Scholarship.
+* Fall 2021: Merit Student Pacesetter.
+* Fall 2020: Merit Student.
+* Spring 2022: 1st Prize of Challenge Cup: Youth Science Competition.
+* Spring 2022: 1st Prize of "Huawei Cup" Innovation Competition.
+* More:
+  * Spring 2021: 1st Prize of Chinese University Mathematical Olympiad, Beijing.
+  * Spring 2021: 2nd Prize of “ACWing Cup” PKU-ACM Program Design Proposer Competition.
+  * Fall 2020: 2nd Prize of “Lanqiao Cup” Chinese University Programming Competition.	
+
