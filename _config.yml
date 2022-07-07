@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Haoyu Li"
   avatar           : "Haoyu.jpg"
-  bio              : "A senior student at [Peking University](https://english.pku.edu.cn/)"
-  location         : "Location"
+  bio              : "Senior Student at Peking Univ."
+  location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4TjRQmasIAitw4UbXzY3F-mYKwCJFB3ZMMexUW5CzvX8tRGMhqrKfadHh4TB1_FstF0mV00YSfcMi2dz9lCETwymz6NA&user=g4dsmuoAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/lihy0529"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
