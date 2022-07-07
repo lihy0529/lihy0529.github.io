@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* (Expected) B.S. in Computer Science and Technology (Turing Class), [Peking University](https://english.pku.edu.cn/), 2018 - 2023. 
+* (Expected) B.S. in Computer Science and Technology (Turing Class), [Peking Univ.](https://english.pku.edu.cn/), 2018 - 2023. 
 
 Working Experience
 ======
@@ -37,12 +37,13 @@ Publications
 
 Scholarships & Honors
 ======
-* Fall 2021: National Scholarship.
-*	Fall 2020: National Scholarship.
-*	Spring 2020: The “Zhongying Tang” Moral Education Scholarship.
-* Fall 2021: Merit Student Pacesetter.
-* Fall 2020: Merit Student.
-* More:
+* In Peking Univ.
+  * Fall 2021: National Scholarship.
+  *	Fall 2020: National Scholarship.
+  *	Spring 2020: The “Zhongying Tang” Moral Education Scholarship.
+  * Fall 2021: Merit Student Pacesetter.
+  * Fall 2020: Merit Student.
+  * More:
   * Spring 2022: 1st Prize of Challenge Cup: Youth Science Competition.
   * Spring 2022: 1st Prize of "Huawei Cup" Innovation Competition.
   * Spring 2021: 1st Prize of Chinese University Mathematical Olympiad, Beijing.
