@@ -38,8 +38,7 @@ Publications
 Scholarships & Honors
 ======
 * In Peking Univ.
-  * Fall 2021: National Scholarship.
-  *	Fall 2020: National Scholarship.
+  * Fall 2021 && Fall 2020: National Scholarship.
   *	Spring 2020: The “Zhongying Tang” Moral Education Scholarship.
   * Fall 2021: Merit Student Pacesetter.
   * Fall 2020: Merit Student.
