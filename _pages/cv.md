@@ -23,7 +23,7 @@ Service & Leadership
 * In Peking Univ.
   * 2020-2023: Class monitor.
   * Spring 2022: Chair of Turing Student Research Forum.
-  * Fall 2021: Teaching assistant for class *Introduction to Computer Systems*.
+  * Fall 2021: Teaching assistant for course *Introduction to Computer Systems*.
   * Fall 2021: Counselor of Freshman Training Camp.
   * 2020-2021: Leader of the College Debating Team.
   
