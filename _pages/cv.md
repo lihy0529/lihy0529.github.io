@@ -18,6 +18,19 @@ Working Experience
 * 2020-Present: Research assistant advised by Prof. [Tong Yang](https://yangtonghome.github.io/), Peking Univ.
 * 2022-Present: Summer research advised by Prof. [Minlan Yu](http://minlanyu.seas.harvard.edu/), Harvard Univ.
 
+Publications
+======
+* See my [frontpage](https://lihy0529.github.io/).
+
+Scholarships & Honors
+======
+* In Peking Univ.
+  * Fall 2021 && Fall 2020: National Scholarship.
+  *	Spring 2020: The “Zhongying Tang” Moral Education Scholarship.
+  * Fall 2021: Merit Student Pacesetter.
+  * Fall 2020: Merit Student.
+  * More: $\bullet$ Spring 2022: 1st Prize of Challenge Cup: Youth Science Competition. $\bullet$ Spring 2022: 1st Prize of "Huawei Cup" Innovation Competition. $\bullet$ Spring 2021: 1st Prize of Chinese University Mathematical Olympiad, Beijing. $\bullet$ Spring 2021: 2nd Prize of “ACWing Cup” PKU-ACM Program Design Proposer Competition. $\bullet$ Fall 2020: 2nd Prize of “Lanqiao Cup” Chinese University Programming Competition.	
+
 Service & Leadership
 ======
 * In Peking Univ.
@@ -30,17 +43,3 @@ Service & Leadership
 Skills
 ======
 * C/C++/Python/Java/Verilog.
-
-Publications
-======
-* See my frontpage.
-
-Scholarships & Honors
-======
-* In Peking Univ.
-  * Fall 2021 && Fall 2020: National Scholarship.
-  *	Spring 2020: The “Zhongying Tang” Moral Education Scholarship.
-  * Fall 2021: Merit Student Pacesetter.
-  * Fall 2020: Merit Student.
-  * More: $\bullet$ Spring 2022: 1st Prize of Challenge Cup: Youth Science Competition. $\bullet$ Spring 2022: 1st Prize of "Huawei Cup" Innovation Competition. $\bullet$ Spring 2021: 1st Prize of Chinese University Mathematical Olympiad, Beijing. $\bullet$ Spring 2021: 2nd Prize of “ACWing Cup” PKU-ACM Program Design Proposer Competition. $\bullet$ Fall 2020: 2nd Prize of “Lanqiao Cup” Chinese University Programming Competition.	
-
