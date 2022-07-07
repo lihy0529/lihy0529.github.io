@@ -37,13 +37,14 @@ Publications
 
 Scholarships & Honors
 ======
-*	Fall 2020 & Fall 2021: National Scholarship.
+* Fall 2021: National Scholarship.
+*	Fall 2020: National Scholarship.
 *	Spring 2020: The “Zhongying Tang” Moral Education Scholarship.
 * Fall 2021: Merit Student Pacesetter.
 * Fall 2020: Merit Student.
-* Spring 2022: 1st Prize of Challenge Cup: Youth Science Competition.
-* Spring 2022: 1st Prize of "Huawei Cup" Innovation Competition.
 * More:
+  * Spring 2022: 1st Prize of Challenge Cup: Youth Science Competition.
+  * Spring 2022: 1st Prize of "Huawei Cup" Innovation Competition.
   * Spring 2021: 1st Prize of Chinese University Mathematical Olympiad, Beijing.
   * Spring 2021: 2nd Prize of “ACWing Cup” PKU-ACM Program Design Proposer Competition.
   * Fall 2020: 2nd Prize of “Lanqiao Cup” Chinese University Programming Competition.	
