@@ -15,15 +15,15 @@ Education
 
 Working Experience
 ======
-* 2020-Present: Research assistant advised by Prof. Tong Yang, Peking Univ.
-* 2022-Present: Summer research advised by Prof. Minlan Yu, Harvard Univ.
+* 2020-Present: Research assistant advised by Prof. [Tong Yang](https://yangtonghome.github.io/), Peking Univ.
+* 2022-Present: Summer research advised by Prof. [Minlan Yu](http://minlanyu.seas.harvard.edu/), Harvard Univ.
 
 Service & Leadership
 ======
 * In Peking Univ.
-  * 2020-2023: Class Monitor.
+  * 2020-2023: Class monitor.
   * Spring 2022: Chair of Turing Student Research Forum.
-  * Fall 2021: TA for class *Introduction to Computer Systems*.
+  * Fall 2021: Teaching assistant for class *Introduction to Computer Systems*.
   * Fall 2021: Counselor of Freshman Training Camp.
   * 2020-2021: Leader of the College Debating Team.
   
