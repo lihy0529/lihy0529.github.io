@@ -20,7 +20,7 @@ Working Experience
 
 Publications
 ======
-* See my [frontpage](https://lihy0529.github.io/).
+* See my [Homepage](https://lihy0529.github.io/).
 
 Scholarships & Honors
 ======
