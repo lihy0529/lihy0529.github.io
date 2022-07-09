@@ -30,6 +30,7 @@ Scholarships & Honors
   * Fall 2021: Merit Student Pacesetter.
   * Fall 2020: Merit Student.
   * More: $\bullet$ Spring 2022: 1st Prize of Challenge Cup: Youth Science Competition. $\bullet$ Spring 2022: 1st Prize of "Huawei Cup" Innovation Competition. $\bullet$ Spring 2021: 1st Prize of Chinese University Mathematical Olympiad, Beijing.
+
 Service & Leadership
 ======
 * In Peking Univ.
