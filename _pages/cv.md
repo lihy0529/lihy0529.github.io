@@ -25,20 +25,16 @@ Publications
 Scholarships & Honors
 ======
 * In Peking Univ.
-  * Fall 2021 && Fall 2020: National Scholarship.
+  * Fall 2021 & Fall 2020: National Scholarship.
   *	Spring 2020: The “Zhongying Tang” Moral Education Scholarship.
-  * Fall 2021: Merit Student Pacesetter.
-  * Fall 2020: Merit Student.
+  * Fall 2021: Merit Student Pacesetter & Fall 2020: Merit Student.
   * More: $\bullet$ Spring 2022: 1st Prize of Challenge Cup: Youth Science Competition. $\bullet$ Spring 2022: 1st Prize of "Huawei Cup" Innovation Competition. $\bullet$ Spring 2021: 1st Prize of Chinese University Mathematical Olympiad, Beijing.
 
 Service & Leadership
 ======
 * In Peking Univ.
-  * 2020-2023: Class monitor.
-  * Spring 2022: Chair of Turing Student Research Forum.
-  * Fall 2021: Teaching assistant for course *Introduction to Computer Systems*.
-  * Fall 2021: Counselor of Freshman Training Camp.
-  * 2020-2021: Leader of the College Debating Team.
+  * Fall 2021: Teaching assistant (TA) for course *Introduction to Computer Systems*.
+  * More: $\bullet$ 2020-2023: Turing Class monitor. $\bullet$ Spring 2022: Chair of Turing Student Research Forum. $\bullet$ Fall 2021: Counselor of Freshman Training Camp. $\bullet$ 2020-2021: Leader of the College Debating Team.
   
 Skills
 ======
