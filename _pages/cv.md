@@ -29,8 +29,7 @@ Scholarships & Honors
   *	Spring 2020: The “Zhongying Tang” Moral Education Scholarship.
   * Fall 2021: Merit Student Pacesetter.
   * Fall 2020: Merit Student.
-  * More: $\bullet$ Spring 2022: 1st Prize of Challenge Cup: Youth Science Competition. $\bullet$ Spring 2022: 1st Prize of "Huawei Cup" Innovation Competition. $\bullet$ Spring 2021: 1st Prize of Chinese University Mathematical Olympiad, Beijing. $\bullet$ Spring 2021: 2nd Prize of “ACWing Cup” PKU-ACM Program Design Proposer Competition. $\bullet$ Fall 2020: 2nd Prize of “Lanqiao Cup” Chinese University Programming Competition.	
-
+  * More: $\bullet$ Spring 2022: 1st Prize of Challenge Cup: Youth Science Competition. $\bullet$ Spring 2022: 1st Prize of "Huawei Cup" Innovation Competition. $\bullet$ Spring 2021: 1st Prize of Chinese University Mathematical Olympiad, Beijing.
 Service & Leadership
 ======
 * In Peking Univ.
