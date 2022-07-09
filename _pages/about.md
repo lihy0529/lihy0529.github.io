@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm Haoyu, a final-year undergraduate student at Turing Class, Peking Univ., advised by Prof. [Tong Yang](https://yangtonghome.github.io/). My research interest includes computer networking, systems, and databases.
+I'm Haoyu Li, a final-year undergraduate student at Turing Class, Peking Univ., advised by Prof. [Tong Yang](https://yangtonghome.github.io/). My research interest includes computer networking, systems, and databases.  
+Email me: lihy@pku.edu.cn.
 
 Publications
 ======
