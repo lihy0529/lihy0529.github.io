@@ -13,5 +13,5 @@ Email me: lihy@pku.edu.cn.
 Publications
 ======
 
-[1] (VLDB'22) Stingy sketch: a sketch framework for accurate and fast frequency estimation. [[PDF]](https://www.vldb.org/pvldb/vol15/p1426-li.pdf) [[slides]](/files/stingysketch.pptx)
+[1] (VLDB'22) Stingy sketch: a sketch framework for accurate and fast frequency estimation. [[PDF]](/files/stingysketch.pdf) [[slides]](/files/stingysketch.pptx)
 **Haoyu Li**\*, Qizhi Chen\*, Yixin Zhang, Tong Yang, Bin Cui.
