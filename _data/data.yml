@@ -54,11 +54,11 @@ publications:
       - title: "BurstSketch: Finding Bursts in Data Streams"
         link: "./papers/burst_tkde.pdf"
         authors: Ruijie Miao, Zheng Zhong, <b>Jiarui Guo</b>, Zikun Li, Tong Yang, Bin Cui
-        conference: "IEEE Transactions on Knowledge and Data Engineering (TKDE). 21 November 2022"
+        conference: "IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>). Nov. 2022"
       - title: "PISketch: Finding Persistent and Infrequent Flows"
         link: "./papers/pisketch_ffspin.pdf"
         authors: Zhuochen Fan, Zhoujing Hu, Yuhan Wu, <b>Jiarui Guo</b>, Wenrui Liu, Tong Yang, Hengrui Wang, Yifei Xu, Steve Uhlig, Yaofeng Tu
-        conference: "Proceedings of the ACM SIGCOMM Workshop on Formal Foundations and Security of Programmable Network Infrastructures (FFSPIN'22). 22 August 2022"
+        conference: "Proceedings of the ACM SIGCOMM Workshop on Formal Foundations and Security of Programmable Network Infrastructures (<b>FFSPIN'22</b>). Aug. 2022"
 
 projects:
     title: Projects
