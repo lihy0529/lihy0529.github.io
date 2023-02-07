@@ -1,0 +1,138 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+    # Profile information
+    name: Ya-Qi Yu
+    tagline: (Y.-Q. Yu)<br>余亚奇<br>Senior Algorithm Engineer <br>HUAWEI, Shanghai # <br><a href="http://www.lamda.nju.edu.cn/">LAMDA Group</a><br><a href="https://www.nju.edu.cn"> Nanjing University</a>
+    avatar: yuyq.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    # Sidebar links
+    email: yuyq96@126.com
+    phone:
+    website: yuyq96.github.io # do not add http://
+    linkedin:
+    xing:
+    github: github.com/yuyq96
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    languages:
+      - idiom: Chinese
+        level: Native
+      - idiom: English
+    interests:
+      - item: Photography
+        link: https://tuchong.com/2696014
+      - item: Painting
+
+career-profile:
+    title: Biography
+    summary: |
+    
+      I graduated from Yali Middle School in 2014.
+    
+      I received my B.Sc. degree from the Department of Computer Science and Technology, Nanjing University in 2018.
+      
+      I received my M.Sc. degree from the [LAMDA](http://www.lamda.nju.edu.cn) group, Department of Computer Science and Technology, [Nanjing University](https://www.nju.edu.cn) in 2021, under the supervision of Professor [Wu-Jun Li](https://cs.nju.edu.cn/lwj).
+      
+      Currently, I am a senior algorithm engineer at HUAWEI.
+      
+      I am interested in machine learning and data mining.
+      Currently, I am mainly focusing on:
+      - Text Recognition
+      - Speaker Recognition
+      
+      I am also interested in:
+      - Speech Recognition/Synthesis/Enhancement
+      - Face Recognition
+
+education:
+    - degree: M.Sc. in Computer Science and Technology
+      university: Nanjing University
+      time: 2018 - 2021
+    - degree: B.Sc. in Computer Science and Technology
+      university: Nanjing University
+      time: 2014 - 2018
+
+publications:
+    title: Publications
+    intro: <a href="https://scholar.google.com/citations?user=6JfwpDsAAAAJ&hl=en">Google Scholar Profile</a>
+    papers:
+      - title: "CAM: Context-Aware Masking for Robust Speaker Verification"
+        link: "https://ieeexplore.ieee.org/document/9414704"
+        authors: <b>Ya-Qi Yu</b>, Siqi Zheng, Hongbin Suo, Yun Lei and Wu-Jun Li
+        conference: "Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Toronto, Canada, 2021"
+      - title: "Densely Connected Time Delay Neural Network for Speaker Verification"
+        link: "https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1275.html"
+        authors: <b>Ya-Qi Yu</b> and Wu-Jun Li
+        conference: "Proceedings of the Annual Conference of the International Speech Communication Association (INTERSPEECH), Shanghai, China, 2020"
+      - title: "Deep Hashing for Speaker Identification and Retrieval"
+        link: "https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2457.html"
+        authors: Lei Fan, Qing-Yuan Jiang, <b>Ya-Qi Yu</b> and Wu-Jun Li
+        conference: "Proceedings of the Annual Conference of the International Speech Communication Association (INTERSPEECH), Graz, Austria, 2019"
+      - title: "Ensemble Additive Margin Softmax for Speaker Verification"
+        link: "https://ieeexplore.ieee.org/document/8683649"
+        authors: <b>Ya-Qi Yu</b>, Lei Fan and Wu-Jun Li
+        conference: "Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, 2019"
+
+experiences:
+    - role: Senior Algorithm Engineer
+      time: July 2021 - Now
+      company: HUAWEI, Shanghai, China
+    - role: Algorithm Engineer Intern
+      time: June 2020 - August 2020
+      company: Speech Lab, Alibaba DAMO Academy, Alibaba Group, Hangzhou, China
+      details: |
+        Work at speaker recognition group:
+          - Deep hashing-based large-scale speaker retrieval
+          - Noise robust speaker verification (Paper accpeted by ICASSP 2021)
+
+awards:
+    - name: Graduation with Distinction
+      location: Nanjing University, Nanjing, China
+      time: April 2021
+    - name: Excellent Graduate Student
+      location: Nanjing University, Nanjing, China
+      time: December 2020
+    - name: Excellence Scholarship
+      location: Nanjing University, Nanjing, China
+      time: November 2020
+    - name: HUAWEI Scholarship
+      location: Nanjing University, Nanjing, China
+      time: December 2019
+    - name: Speaker Verification Competition (2/345, ¥50,000)
+      location: Tongdun, Hangzhou, China
+      time: October 2018
+
+projects:
+    title: Projects
+    intro:
+    assignments:
+      - title: D-TDNN
+        link: "https://github.com/yuyq96/D-TDNN"
+        tagline: "PyTorch implementation of densely connected time delay neural networks"
+      - title: KaldiFeat
+        link: "https://github.com/yuyq96/kaldifeat"
+        tagline: "A light-weight Python library for computing Kaldi-style acoustic features based on NumPy"
+      - title: PyShengyun
+        link: "https://github.com/yuyq96/pyshengyun"
+        tagline: "A Python converter for Chinese Pinyin and Shengyun (initials and finals)"
+
+skills:
+    title: Skills
+    toolset:
+      - name: PyTorch
+        level: 90%
+      - name: Kaldi
+        level: 80%
+      - name: Python
+        level: 90%
+      - name: C & C++
+        level: 65%
