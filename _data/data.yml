@@ -36,22 +36,11 @@ career-profile:
     title: Biography
     summary: |
     
-      I graduated from Yali Middle School in 2014.
-    
-      I received my B.Sc. degree from the Department of Computer Science and Technology, Nanjing University in 2018.
-      
-      I received my M.Sc. degree from the [LAMDA](http://www.lamda.nju.edu.cn) group, Department of Computer Science and Technology, [Nanjing University](https://www.nju.edu.cn) in 2021, under the supervision of Professor [Wu-Jun Li](https://cs.nju.edu.cn/lwj).
-      
-      Currently, I am a senior algorithm engineer at HUAWEI.
-      
-      I am interested in machine learning and data mining.
-      Currently, I am mainly focusing on:
-      - Text Recognition
-      - Speaker Recognition
-      
-      I am also interested in:
-      - Speech Recognition/Synthesis/Enhancement
-      - Face Recognition
+      I am an undergraduate student in School of Electronic Engineering and Computer Science. I major in computer science and my
+      second major is mathematics. My research interests include approximate algorithms in data streams and computer network systems.
+
+      I am about to get my bachelor degree this summer. Then I will continue my research on my Ph.D. project in School of Computer Science, 
+      advised by Professor Tong Yang. 
 
 education:
     - degree: undergraduate student in School of Electronic Engineering and Computer Science
@@ -73,35 +62,6 @@ publications:
         link: "./papers/pisketch_ffspin.pdf"
         authors: Zhuochen Fan, Zhoujing Hu, Yuhan Wu, <b>Jiarui Guo</b>, Wenrui Liu, Tong Yang, Hengrui Wang, Yifei Xu, Steve Uhlig, Yaofeng Tu
         conference: "ACM SIGCOMM Workshop on Formal Foundations and Security of Programmable network INfrastructures (FFSPIN) 2022"
-      
-experiences:
-    - role: Senior Algorithm Engineer
-      time: July 2021 - Now
-      company: HUAWEI, Shanghai, China
-    - role: Algorithm Engineer Intern
-      time: June 2020 - August 2020
-      company: Speech Lab, Alibaba DAMO Academy, Alibaba Group, Hangzhou, China
-      details: |
-        Work at speaker recognition group:
-          - Deep hashing-based large-scale speaker retrieval
-          - Noise robust speaker verification (Paper accpeted by ICASSP 2021)
-
-awards:
-    - name: Graduation with Distinction
-      location: Nanjing University, Nanjing, China
-      time: April 2021
-    - name: Excellent Graduate Student
-      location: Nanjing University, Nanjing, China
-      time: December 2020
-    - name: Excellence Scholarship
-      location: Nanjing University, Nanjing, China
-      time: November 2020
-    - name: HUAWEI Scholarship
-      location: Nanjing University, Nanjing, China
-      time: December 2019
-    - name: Speaker Verification Competition (2/345, ¥50,000)
-      location: Tongdun, Hangzhou, China
-      time: October 2018
 
 projects:
     title: Projects
@@ -116,15 +76,3 @@ projects:
       - title: PyShengyun
         link: "https://github.com/yuyq96/pyshengyun"
         tagline: "A Python converter for Chinese Pinyin and Shengyun (initials and finals)"
-
-skills:
-    title: Skills
-    toolset:
-      - name: PyTorch
-        level: 90%
-      - name: Kaldi
-        level: 80%
-      - name: Python
-        level: 90%
-      - name: C & C++
-        level: 65%
