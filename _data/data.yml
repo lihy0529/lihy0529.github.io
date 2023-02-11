@@ -51,6 +51,12 @@ publications:
     title: Publications
     intro: <a href="https://scholar.google.com/citations?user=bTDP5zIAAAAJ">Google Scholar</a>
     papers:
+      - title: "Finding Simplex Items in Data Streams"
+        authors: Zhuochen Fan, <b>Jiarui Guo</b>, Xiaodong Li, Tong Yang, Yikai Zhao, Yuhan Wu, Bin Cui, Steve Uhlig, Gong Zhang
+        conference: "2023 IEEE 39th International Conference on Data Engineering (<b>ICDE'23</b>). Apr. 2023"
+      - title: "REncoder: A Space-Time Efficient Range Filter with Local Encoder"
+        authors: Ziwei Wang, Zheng Zhong, <b>Jiarui Guo</b>, Yuhan Wu, Haoyu Li, Tong Yang, Yaofeng Tu, Huanchen Zhang, Bin Cui
+        conference: "2023 IEEE 39th International Conference on Data Engineering (<b>ICDE'23</b>). Apr. 2023"
       - title: "BurstSketch: Finding Bursts in Data Streams"
         link: "./papers/burst_tkde.pdf"
         authors: Ruijie Miao, Zheng Zhong, <b>Jiarui Guo</b>, Zikun Li, Tong Yang, Bin Cui
