@@ -13,7 +13,7 @@ Email me: lihy@pku.edu.cn.
 Publications
 ======
 
-(ICDE'23) REncoder: A Space-Time Efficient Range Filter with Local Encoder. Ziwei Wang, Zheng Zhong, Jiarui Guo, Yuhan Wu, **Haoyu Li**, Tong Yang, Yaofeng Tu, Huanchen Zhang, Bin Cui
+(ICDE'23) REncoder: A Space-Time Efficient Range Filter with Local Encoder. Ziwei Wang, Zheng Zhong, Jiarui Guo, Yuhan Wu, **Haoyu Li**, Tong Yang, Yaofeng Tu, Huanchen Zhang, Bin Cui.
 
 (ICDE'23) Wind-Bell Index: Towards Ultra-Fast Edge Query for Graph Databases. Rui Qiu, Yi Ming, Yisen Hong, **Haoyu Li**, Tong Yang.
 
