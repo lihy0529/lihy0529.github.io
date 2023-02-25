@@ -66,6 +66,10 @@ publications:
         authors: Zhuochen Fan, Zhoujing Hu, Yuhan Wu, <b>Jiarui Guo</b>, Wenrui Liu, Tong Yang, Hengrui Wang, Yifei Xu, Steve Uhlig, Yaofeng Tu
         conference: "Proceedings of the ACM SIGCOMM 2022 Workshop on Formal Foundations and Security of Programmable Network Infrastructures (<b>FFSPIN'22</b>). Aug. 2022"
 
+experiences:
+    title: Teaching Assistant
+    - role: Probability Theory and Statistics (A)
+      time: Spring 2023
 projects:
     title: Projects
     intro:
@@ -74,7 +78,3 @@ projects:
         link: "review_material.html"
         tagline: "Review materials for some courses in Peking University."
 
-experiences:
-    title: Teaching Assistant
-    - role: Probability Theory and Statistics (A)
-      time: February 2023 - Present
