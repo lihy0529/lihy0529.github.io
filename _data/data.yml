@@ -67,7 +67,7 @@ publications:
         conference: "Proceedings of the ACM SIGCOMM 2022 Workshop on Formal Foundations and Security of Programmable Network Infrastructures (<b>FFSPIN'22</b>). Aug. 2022"
 
 experiences:
-    title: Teaching Assistant
+    # title: Teaching Assistant
     - role: Probability Theory and Statistics (A)
       time: Spring 2023
 
