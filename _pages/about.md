@@ -12,11 +12,12 @@ Email me: lihy@pku.edu.cn.
 
 Publications
 ======
+(IWQoS'23) SteadySketch: Finding Steady Flows in Data Streams. Xiaodong Li, Zhuochen Fan, Haoyu Li, Zheng Zhong, Jiarui Guo, Sheng Long,  Tong Yang, Bin Cui.
 
-(ICDE'23) REncoder: A Space-Time Efficient Range Filter with Local Encoder. Ziwei Wang, Zheng Zhong, Jiarui Guo, Yuhan Wu, **Haoyu Li**, Tong Yang, Yaofeng Tu, Huanchen Zhang, Bin Cui.
+(ICDE'23) REncoder: A Space-Time Efficient Range Filter with Local Encoder. Ziwei Wang, Zheng Zhong, Jiarui Guo, Yuhan Wu, Haoyu Li, Tong Yang, Yaofeng Tu, Huanchen Zhang, Bin Cui.
 
-(ICDE'23) Wind-Bell Index: Towards Ultra-Fast Edge Query for Graph Databases. Rui Qiu, Yi Ming, Yisen Hong, **Haoyu Li**, Tong Yang.
+(ICDE'23) Wind-Bell Index: Towards Ultra-Fast Edge Query for Graph Databases. Rui Qiu, Yi Ming, Yisen Hong, Haoyu Li, Tong Yang.
 
-(VLDB'22) Stingy Sketch: a Sketch Framework for Accurate and Fast Frequency Estimation. [[PDF]](/files/stingysketch.pdf) [[slides]](/files/stingysketch.pptx) **Haoyu Li**\*, Qizhi Chen\*, Yixin Zhang, Tong Yang, Bin Cui.
+(VLDB'22) Stingy Sketch: a Sketch Framework for Accurate and Fast Frequency Estimation. [[PDF]](/files/stingysketch.pdf) [[slides]](/files/stingysketch.pptx) Haoyu Li, Qizhi Chen, Yixin Zhang, Tong Yang, Bin Cui.
 
 Update: Feb 10, 2023
