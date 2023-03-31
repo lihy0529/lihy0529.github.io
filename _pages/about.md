@@ -20,4 +20,4 @@ Publications
 
 (VLDB'22) Stingy Sketch: a Sketch Framework for Accurate and Fast Frequency Estimation. [[PDF]](/files/stingysketch.pdf) [[slides]](/files/stingysketch.pptx) Haoyu Li, Qizhi Chen, Yixin Zhang, Tong Yang, Bin Cui.
 
-Update: Feb 10, 2023
+Update: Mar 31, 2023
