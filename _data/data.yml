@@ -51,7 +51,7 @@ publications:
     title: Publications
     intro: <a href="https://scholar.google.com/citations?user=bTDP5zIAAAAJ">Google Scholar</a>
     papers:
-      - title: "Steadysketch: Finding Steady Flows in Data Streams"
+      - title: "SteadySketch: Finding Steady Flows in Data Streams"
         authors: Xiaodong Li, Zhuochen Fan, Haoyu Li, Zheng Zhong, <b>Jiarui Guo</b>, Sheng Long, Tong Yang, Bin Cui
         conference: "2023 IEEE/ACM 31st International Symposium on Quality of Service (<b>IWQoS'23</b>). Jun. 2023"
       - title: "Finding Simplex Items in Data Streams"
