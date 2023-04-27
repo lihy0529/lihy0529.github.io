@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
     # Profile information
     name: Jiarui Guo
-    tagline: 郭嘉睿<br>Undergraduate Student<br>Peking University<br><a href="CV.pdf">[CV]</a> <a href="https://scholar.google.com/citations?user=bTDP5zIAAAAJ">[Google Scholar]</a> # <br><a href="http://www.lamda.nju.edu.cn/">LAMDA Group</a><br><a href="https://www.nju.edu.cn"> Nanjing University</a>
+    tagline: 郭嘉睿<br>Undergraduate Student<br>Peking University<br>
     avatar: photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     # Sidebar links
     email: ntguojiarui@pku.edu.cn
@@ -51,7 +51,7 @@ education:
 
 publications:
     title: Publications
-    # intro: <a href="https://scholar.google.com/citations?user=bTDP5zIAAAAJ">Google Scholar</a>
+    intro: <a href="https://scholar.google.com/citations?user=bTDP5zIAAAAJ">Google Scholar</a>
     papers:
       - title: "SteadySketch: Finding Steady Flows in Data Streams"
         link: "./papers/steady_iwqos.pdf"
