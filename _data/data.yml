@@ -88,6 +88,12 @@ projects:
     title: Projects
     intro:
     assignments:
+      - title: X-Sketch
+        link: "https://github.com/SimpleX-Sketch/X-Sketch"
+        tagline: "Source code for X-Sketch."
+      - title: BurstSketch
+        link: "https://github.com/mrj222/burst-sketch"
+        tagline: "Source code for BurstSketch."
       - title: Review Materials
         link: "review_material.html"
         tagline: "Review materials for some courses in Peking University."
