@@ -53,6 +53,9 @@ publications:
     title: Publications
     intro: <a href="https://scholar.google.com/citations?user=bTDP5zIAAAAJ">Google Scholar</a>
     papers:
+      - title: "SketchPolymer: Estimate Per-item Tail Quantile Using One Sketch"
+        authors: <b>Jiarui Guo</b>, Yisen Hong, Yuhan Wu, Yunfei Liu, Tong Yang, Bin Cui
+        conference: "Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD'23</b>). Aug. 2023"
       - title: "SteadySketch: Finding Steady Flows in Data Streams"
         link: "./papers/steady_iwqos.pdf"
         authors: Xiaodong Li, Zhuochen Fan, Haoyu Li, Zheng Zhong, <b>Jiarui Guo</b>, Sheng Long, Tong Yang, Bin Cui
