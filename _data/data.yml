@@ -55,11 +55,11 @@ publications:
     papers:
       - title: "SketchPolymer: Estimate Per-item Tail Quantile Using One Sketch"
         authors: <b>Jiarui Guo</b>, Yisen Hong, Yuhan Wu, Yunfei Liu, Tong Yang, Bin Cui
-        conference: "Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD'23</b>). Aug. 2023"
+        conference: "Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD '23</b>). Aug. 2023"
       - title: "SteadySketch: Finding Steady Flows in Data Streams"
         link: "./papers/steady_iwqos.pdf"
         authors: Xiaodong Li, Zhuochen Fan, Haoyu Li, Zheng Zhong, <b>Jiarui Guo</b>, Sheng Long, Tong Yang, Bin Cui
-        conference: "2023 IEEE/ACM 31st International Symposium on Quality of Service (<b>IWQoS'23</b>). Jun. 2023"
+        conference: "2023 IEEE/ACM 31st International Symposium on Quality of Service (<b>IWQoS '23</b>). Jun. 2023"
       - title: "PISketch: Finding Persistent and Infrequent Flows"
         link: "./papers/pisketch_ton.pdf"
         authors: Zhuochen Fan, Zhoujing Hu, Yuhan Wu, <b>Jiarui Guo</b>, Sha Wang, Wenrui Liu, Tong Yang, Yaofeng Tu, Steve Uhlig
@@ -67,11 +67,11 @@ publications:
       - title: "Finding Simplex Items in Data Streams"
         link: "./papers/xsketch_icde.pdf"
         authors: Zhuochen Fan, <b>Jiarui Guo</b>, Xiaodong Li, Tong Yang, Yikai Zhao, Yuhan Wu, Bin Cui, Yanwei Xu, Steve Uhlig, Gong Zhang
-        conference: "2023 IEEE 39th International Conference on Data Engineering (<b>ICDE'23</b>). Apr. 2023"
+        conference: "2023 IEEE 39th International Conference on Data Engineering (<b>ICDE '23</b>). Apr. 2023"
       - title: "REncoder: A Space-Time Efficient Range Filter with Local Encoder"
         link: "./papers/rencoder_icde.pdf"
         authors: Ziwei Wang, Zheng Zhong, <b>Jiarui Guo</b>, Yuhan Wu, Haoyu Li, Tong Yang, Yaofeng Tu, Huanchen Zhang, Bin Cui
-        conference: "2023 IEEE 39th International Conference on Data Engineering (<b>ICDE'23</b>). Apr. 2023"
+        conference: "2023 IEEE 39th International Conference on Data Engineering (<b>ICDE '23</b>). Apr. 2023"
       - title: "BurstSketch: Finding Bursts in Data Streams"
         link: "./papers/burst_tkde.pdf"
         authors: Ruijie Miao, Zheng Zhong, <b>Jiarui Guo</b>, Zikun Li, Tong Yang, Bin Cui
@@ -79,7 +79,7 @@ publications:
       - title: "PISketch: Finding Persistent and Infrequent Flows"
         link: "./papers/pisketch_ffspin.pdf"
         authors: Zhuochen Fan, Zhoujing Hu, Yuhan Wu, <b>Jiarui Guo</b>, Wenrui Liu, Tong Yang, Hengrui Wang, Yifei Xu, Steve Uhlig, Yaofeng Tu
-        conference: "Proceedings of the ACM SIGCOMM 2022 Workshop on Formal Foundations and Security of Programmable Network Infrastructures (<b>FFSPIN'22</b>). Aug. 2022"
+        conference: "Proceedings of the ACM SIGCOMM 2022 Workshop on Formal Foundations and Security of Programmable Network Infrastructures (<b>FFSPIN '22</b>). Aug. 2022"
 
 experiences:
     title: Teaching Assistant
