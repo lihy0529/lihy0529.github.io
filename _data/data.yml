@@ -91,6 +91,9 @@ projects:
     title: Projects
     intro:
     assignments:
+      - title: SketchPolymer
+        link: "https://github.com/SketchPolymer/SketchPolymer-code"
+        tagline: "Source code for SketchPolymer"
       - title: X-Sketch
         link: "https://github.com/SimpleX-Sketch/X-Sketch"
         tagline: "Source code for X-Sketch."
