@@ -63,7 +63,7 @@ publications:
       - title: "PISketch: Finding Persistent and Infrequent Flows"
         link: "./papers/pisketch_ton.pdf"
         authors: Zhuochen Fan, Zhoujing Hu, Yuhan Wu, <b>Jiarui Guo</b>, Sha Wang, Wenrui Liu, Tong Yang, Yaofeng Tu, Steve Uhlig
-        conference: "IEEE/ACM Transactions on Networking (<b>ToN</b>). May. 2023"
+        conference: "IEEE/ACM Transactions on Networking (<b>TON</b>). May. 2023"
       - title: "Finding Simplex Items in Data Streams"
         link: "./papers/xsketch_icde.pdf"
         authors: Zhuochen Fan, <b>Jiarui Guo</b>, Xiaodong Li, Tong Yang, Yikai Zhao, Yuhan Wu, Bin Cui, Yanwei Xu, Steve Uhlig, Gong Zhang
