@@ -51,33 +51,39 @@ education:
 
 publications:
     title: Publications
-    intro: <a href="https://scholar.google.com/citations?user=bTDP5zIAAAAJ">Google Scholar</a>  <a href="https://orcid.org/0000-0003-1551-7646">ORCID</a>
+    intro: <a href="https://scholar.google.com/citations?user=bTDP5zIAAAAJ">Google Scholar</a> &nbsp; <a href="https://orcid.org/0000-0003-1551-7646">ORCID</a>
     papers:
       - title: "SketchPolymer: Estimate Per-item Tail Quantile Using One Sketch"
         authors: <b>Jiarui Guo</b>, Yisen Hong, Yuhan Wu, Yunfei Liu, Tong Yang, Bin Cui
         conference: "Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD '23</b>). Aug. 2023"
-      - title: "SteadySketch: Finding Steady Flows in Data Streams"
-        link: "./papers/steady_iwqos.pdf"
+      - title: "SteadySketch: Finding Steady Flows in Data Streams" 
+        <a href="./papers/steady_iwqos.pdf">[PDF]</a>
+        #link: "./papers/steady_iwqos.pdf"
         authors: Xiaodong Li, Zhuochen Fan, Haoyu Li, Zheng Zhong, <b>Jiarui Guo</b>, Sheng Long, Tong Yang, Bin Cui
         conference: "2023 IEEE/ACM 31st International Symposium on Quality of Service (<b>IWQoS '23</b>). Jun. 2023"
-      - title: "PISketch: Finding Persistent and Infrequent Flows"
-        link: "./papers/pisketch_ton.pdf"
+      - title: "PISketch: Finding Persistent and Infrequent Flows" 
+        <a href="./papers/pisketch_ton.pdf">[PDF]</a>
+        #link: "./papers/pisketch_ton.pdf"
         authors: Zhuochen Fan, Zhoujing Hu, Yuhan Wu, <b>Jiarui Guo</b>, Sha Wang, Wenrui Liu, Tong Yang, Yaofeng Tu, Steve Uhlig
         conference: "IEEE/ACM Transactions on Networking (<b>TON</b>). May. 2023"
-      - title: "Finding Simplex Items in Data Streams"
-        link: "./papers/xsketch_icde.pdf"
+      - title: "Finding Simplex Items in Data Streams" 
+        <a href="./papers/xsketch_icde.pdf">[PDF]</a> <a href="./slides/xsketch_slides.pptx">[Slide]</a> <a href="https://github.com/SimpleX-Sketch/X-Sketch">[Code]</a> 
+        #link: "./papers/xsketch_icde.pdf"
         authors: Zhuochen Fan, <b>Jiarui Guo</b>, Xiaodong Li, Tong Yang, Yikai Zhao, Yuhan Wu, Bin Cui, Yanwei Xu, Steve Uhlig, Gong Zhang
         conference: "2023 IEEE 39th International Conference on Data Engineering (<b>ICDE '23</b>). Apr. 2023"
       - title: "REncoder: A Space-Time Efficient Range Filter with Local Encoder"
-        link: "./papers/rencoder_icde.pdf"
+        <a href="./papers/rencoder_icde.pdf">[PDF]</a>
+        #link: "./papers/rencoder_icde.pdf"
         authors: Ziwei Wang, Zheng Zhong, <b>Jiarui Guo</b>, Yuhan Wu, Haoyu Li, Tong Yang, Yaofeng Tu, Huanchen Zhang, Bin Cui
         conference: "2023 IEEE 39th International Conference on Data Engineering (<b>ICDE '23</b>). Apr. 2023"
       - title: "BurstSketch: Finding Bursts in Data Streams"
-        link: "./papers/burst_tkde.pdf"
+        <a href="./papers/burst_tkde.pdf">[PDF]</a> <a href="https://github.com/mrj222/burst-sketch">[Code]</a> 
+        #link: "./papers/burst_tkde.pdf"
         authors: Ruijie Miao, Zheng Zhong, <b>Jiarui Guo</b>, Zikun Li, Tong Yang, Bin Cui
         conference: "IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>). Nov. 2022"
       - title: "PISketch: Finding Persistent and Infrequent Flows"
-        link: "./papers/pisketch_ffspin.pdf"
+        <a href="./papers/pisketch_ffspin.pdf">[PDF]</a>
+        #link: "./papers/pisketch_ffspin.pdf"
         authors: Zhuochen Fan, Zhoujing Hu, Yuhan Wu, <b>Jiarui Guo</b>, Wenrui Liu, Tong Yang, Hengrui Wang, Yifei Xu, Steve Uhlig, Yaofeng Tu
         conference: "Proceedings of the ACM SIGCOMM 2022 Workshop on Formal Foundations and Security of Programmable Network Infrastructures (<b>FFSPIN '22</b>). Aug. 2022"
 
@@ -91,15 +97,15 @@ projects:
     title: Projects
     intro:
     assignments:
-      - title: SketchPolymer
-        link: "https://github.com/SketchPolymer/SketchPolymer-code"
-        tagline: "Source code for SketchPolymer"
-      - title: X-Sketch
-        link: "https://github.com/SimpleX-Sketch/X-Sketch"
-        tagline: "Source code for X-Sketch."
-      - title: BurstSketch
-        link: "https://github.com/mrj222/burst-sketch"
-        tagline: "Source code for BurstSketch."
+      # - title: SketchPolymer
+      #   link: "https://github.com/SketchPolymer/SketchPolymer-code"
+      #   tagline: "Source code for SketchPolymer"
+      # - title: X-Sketch
+      #   link: "https://github.com/SimpleX-Sketch/X-Sketch"
+      #   tagline: "Source code for X-Sketch."
+      # - title: BurstSketch
+      #   link: "https://github.com/mrj222/burst-sketch"
+      #   tagline: "Source code for BurstSketch."
       - title: Review Materials
         link: "review_material.html"
         tagline: "Review materials for some courses in Peking University."
