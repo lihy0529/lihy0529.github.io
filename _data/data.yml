@@ -51,7 +51,7 @@ education:
 
 publications:
     title: Publications
-    intro: <a href="https://scholar.google.com/citations?user=bTDP5zIAAAAJ">Google Scholar</a> &nbsp; &nbsp; &nbsp; <a href="https://orcid.org/0000-0003-1551-7646">ORCID</a>
+    intro: <a href="https://scholar.google.com/citations?user=bTDP5zIAAAAJ">Google Scholar</a> #&nbsp; &nbsp; &nbsp; <a href="https://orcid.org/0000-0003-1551-7646">ORCID</a>
     papers:
       - title: "SketchPolymer: Estimate Per-item Tail Quantile Using One Sketch"
         authors: <b>Jiarui Guo</b>, Yisen Hong, Yuhan Wu, Yunfei Liu, Tong Yang, Bin Cui
