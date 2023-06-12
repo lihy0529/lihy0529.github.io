@@ -71,7 +71,7 @@ publications:
         #link: "./papers/xsketch_icde.pdf"
         authors: Zhuochen Fan, <b><u>Jiarui Guo</u></b>, Xiaodong Li, Tong Yang, Yikai Zhao, Yuhan Wu, Bin Cui, Yanwei Xu, Steve Uhlig, Gong Zhang
         conference: "2023 IEEE 39th International Conference on Data Engineering (<b>ICDE '23</b>). Apr. 2023"
-        other: <a href="./papers/xsketch_icde.pdf">[PDF]</a> <a href="./slides/xsketch_slides.pdf">[Slides]</a> <a href="https://github.com/SimpleX-Sketch/X-Sketch">[Code]</a> 
+        other: <a href="./papers/xsketch_icde.pdf">[PDF]</a> <a href="https://github.com/SimpleX-Sketch/X-Sketch">[Code]</a> <a href="./slides/xsketch_slides.pdf">[Slides]</a> 
       - title: "REncoder: A Space-Time Efficient Range Filter with Local Encoder" 
         #link: "./papers/rencoder_icde.pdf"
         authors: Ziwei Wang, Zheng Zhong, <b><u>Jiarui Guo</u></b>, Yuhan Wu, Haoyu Li, Tong Yang, Yaofeng Tu, Huanchen Zhang, Bin Cui
