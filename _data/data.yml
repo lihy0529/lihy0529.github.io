@@ -45,9 +45,13 @@ career-profile:
       advised by Professor <a href="https://cs.pku.edu.cn/info/1182/1503.htm">Xiaolin Wang</a> and Professor <a href="https://yangtonghome.github.io/">Tong Yang</a>. 
 
 education:
-    - degree: B.Sc. in School of Electronics Engineering and Computer Science & School of Mathematical Science
+    - degree: Ph.D. in Computer Science
       university: Peking University
-      time: 2019 - Present
+      time: 2023 - Present
+    - degree: B.Sc. in Computer Science & Mathematics
+      university: Peking University
+      time: 2019 - 2023
+    
 
 publications:
     title: Publications
