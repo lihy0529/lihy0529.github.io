@@ -33,14 +33,15 @@ sidebar:
 career-profile:
     title: Biography
     summary: |
-      I am a final-year undergraduate student at Turing Class, Peking University. My undergraduate research interest lies in databases and theoretical computer science. 
-      And my current research interests are computer systems (networks and architecture).
+    
+            I am a final-year undergraduate student at Turing Class, Peking University. My undergraduate research interest lies in databases and theoretical computer science. 
+            And my current research interests are computer systems (networks and architecture).
 
 publications:
     title: Publications
     intro: <a href="https://scholar.google.com/citations?hl=en&user=g4dsmuoAAAAJ">Google Scholar</a>
     papers:
-        - title: "UNDER REVISION."
+      - title: "UNDER REVISION."
         #link: "./papers/steady_iwqos.pdf"
         authors: <b><u>Haoyu Li</u></b>, ...
         conference: "SIGMOD'24."
