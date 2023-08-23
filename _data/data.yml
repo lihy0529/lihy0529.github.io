@@ -41,9 +41,9 @@ publications:
     title: Publications
     intro: <a href="https://scholar.google.com/citations?hl=en&user=g4dsmuoAAAAJ">Google Scholar</a>
     papers:
-      - title: "UNDER REVISION."
+      - title: "ChainedFilter: Combining Membership Filters by Chain Rule."
         #link: "./papers/steady_iwqos.pdf"
-        authors: <b><u>Haoyu Li</u></b>, ...
+        authors: <b><u>Haoyu Li</u></b>, Liuhui Wang, Qizhi Chen, Jianan Ji, Yuhan Wu, Yikai Zhao, Tong Yang, Aditya Akella.
         conference: "SIGMOD'24."
       - title: "Stingy Sketch: a Sketch Framework for Accurate and Fast Frequency Estimation."
         authors: <b><u>Haoyu Li</u></b>, Qizhi Chen, Yixin Zhang, Tong Yang, Bin Cui.
