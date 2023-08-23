@@ -38,7 +38,7 @@ career-profile:
             My current research interests are computer systems (networks and architecture).
 
 publications:
-    title: Publications
+    title: Selected Publications
     intro: <a href="https://scholar.google.com/citations?hl=en&user=g4dsmuoAAAAJ">Google Scholar</a>
     papers:
       - title: "ChainedFilter: Combining Membership Filters by Chain Rule."
