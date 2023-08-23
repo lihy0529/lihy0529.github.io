@@ -45,6 +45,6 @@ publications:
         #link: "./papers/steady_iwqos.pdf"
         authors: <b><u>Haoyu Li</u></b>, Liuhui Wang, Qizhi Chen, Jianan Ji, Yuhan Wu, Yikai Zhao, Tong Yang, Aditya Akella.
         conference: "SIGMOD'24."
-      - title: "Stingy Sketch: a Sketch Framework for Accurate and Fast Frequency Estimation."
+      - title: "StingySketch: a Sketch Framework for Accurate and Fast Frequency Estimation."
         authors: <b><u>Haoyu Li</u></b>, Qizhi Chen, Yixin Zhang, Tong Yang, Bin Cui.
         conference: "VLDB'22."
