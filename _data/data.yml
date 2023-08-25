@@ -6,9 +6,9 @@ sidebar:
      #tagline: 郭嘉睿<br>Undergraduate Student<br>Peking University<br>
     avatar: photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     # Sidebar links
-    email: lihy AT pku DOT edu DOT cn
+    email: lhy AT utexas DOT edu
     phone:
-    timezone: Beijing, China
+    timezone: Austin, TX
     website: lihy0529.github.io # do not add http://
     # linkedin: jiarui-guo-b90a59279
     xing:
@@ -34,17 +34,18 @@ career-profile:
     title: Biography
     summary: |
     
-            I am a first-year Ph.D. student at UTNS (UT Austin Networked Systems group). My undergraduate research interest lies in databases and theory. 
-            My current research interests are computer systems (networks and architecture) and machine learning.
+            I am a first-year Ph.D. student at UTNS (UT Austin Networked Systems group). My undergraduate research interest lies in databases and theoretical computer science. 
+            My current research interests are computer networks, architectures, operating systems and machine learning.
 
 publications:
     title: Selected Publications
-    intro: <a href="https://scholar.google.com/citations?hl=en&user=g4dsmuoAAAAJ">Google Scholar</a>
+    intro: (A full list can be seen on <a href="https://scholar.google.com/citations?hl=en&user=g4dsmuoAAAAJ">Google Scholar</a>)
     papers:
       - title: "ChainedFilter: Combining Membership Filters by Chain Rule."
         #link: "./papers/steady_iwqos.pdf"
         authors: <b><u>Haoyu Li</u></b>, Liuhui Wang, Qizhi Chen, Jianan Ji, Yuhan Wu, Yikai Zhao, Tong Yang, Aditya Akella.
-        conference: "SIGMOD'24."
+        conference: "SIGMOD 2024."
       - title: "StingySketch: a Sketch Framework for Accurate and Fast Frequency Estimation."
         authors: <b><u>Haoyu Li</u></b>, Qizhi Chen, Yixin Zhang, Tong Yang, Bin Cui.
-        conference: "VLDB'22."
+        conference: "VLDB 2022."
+
