@@ -12,7 +12,7 @@ sidebar:
     website: lihy0529.github.io # do not add http://
     # linkedin: jiarui-guo-b90a59279
     xing:
-    linkedin: https://www.linkedin.com/in/haoyu-harry-li-bb554928b/
+    linkedin: haoyu-harry-li-bb554928b/
     github: github.com/lihy0529
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -35,15 +35,15 @@ career-profile:
     title: Biography
     summary: |
     
-            Hi, I am Haoyu (Hao-yü, not "How-you"). You can call me Harry since most of you may have difficulty pronouncing my name :)
+            Hi, I am <b>Haoyu</b> (Hao-yü, not "How-you"). You can call me Harry since most of you may have difficulty pronouncing my name :)
             
-            I am a first-year Ph.D. student at UTNS (UT Austin Networked Systems group), advised by Prof. Aditya Akella and Daehyeok Kim. My current research interests are networks, architectures, operating systems and machine learning. Specifically, I am interested in designing an efficient network system to boost ML training (MLSys), as well as using ML methodology to help system design (LDOS). Our projects often work on programmable switch, smart NIC, FPGA and Linux kernel.
+            I am a first-year Ph.D. student at <a href="https://utns.cs.utexas.edu">UTNS</a> (UT Austin Networked Systems group), advised by Prof. <a href="https://www.cs.utexas.edu/~akella/">Aditya Akella</a> and <a href="https://daehyeok.kim">Daehyeok Kim</a>. My current research interests are networks, architectures, operating systems and machine learning. Specifically, I am interested in designing an efficient network system to boost ML training (MLSys), as well as using ML methodology to help system design (LDOS). Our projects often work on programmable switch, smart NIC, FPGA and Linux kernel.
 
-            Previously, I spent four fantastic undergrad years in CS Turing Class, Peking University, worked closely with Prof. Tong Yang in the field of probabilistic algorithms. My undergraduate research interest lies in databases (DB) and theoretical computer science (TCS). We evaluate our algorithms in databases like RocksDB and Apache Flink. This research area calls for students with strong interests, unique ideas and (maybe a little bit) mathematical foundation.
+            Previously, I spent four fantastic undergrad years in CS Turing Class, Peking University, worked closely with Prof. <a href="https://yangtonghome.github.io">Tong Yang</a> in the field of probabilistic algorithms. My undergraduate research interest lies in databases (DB) and theoretical computer science (TCS). We evaluate our algorithms in databases like RocksDB and Apache Flink. This research area calls for students with strong interests, unique ideas and (maybe a little bit) mathematical foundation.
 
-            If you want to collaborate with me, please feel free to contact my email.
+            If you want to collaborate with me, please feel free to contact my email lhy AT utexas DOT edu.
 
-            Personal. I like psychology and photograph. For the future five years, I also want to learn foreign languages like Spanish and German, as well as pickup an instrument.
+            Personal (amateur): I like psychology and photograph. For the future five years, I want to learn foreign languages like Spanish and German, as well as pickup an instrument. I also want to practice my cooking skill further because the food in UT is too high in calories.
 
 publications:
     title: Selected Publications
