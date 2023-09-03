@@ -34,8 +34,15 @@ career-profile:
     title: Biography
     summary: |
     
-            I am a first-year Ph.D. student at UTNS (UT Austin Networked Systems group). My undergraduate research interest lies in databases and theoretical computer science. 
-            My current research interests are computer networks, architectures, operating systems and machine learning.
+            Hi, I am Haoyu (Hao-yü, not "How-you"). You can call me Harry since most of you may have difficulty pronouncing my name :)
+            
+            I am a first-year Ph.D. student at UTNS (UT Austin Networked Systems group), advised by Prof. Aditya Akella and Daehyeok Kim. My current research interests are networks, architectures, operating systems and machine learning. Specifically, I am interested in designing an efficient network system to boost ML training (MLSys), as well as using ML methodology to help system design (LDOS). Our projects often work on programmable switch, smart NIC, FPGA and Linux kernel.
+
+            Previously, I spent four fantastic undergrad years in CS Turing Class, Peking University, worked closely with Prof. Tong Yang in the field of probabilistic algorithms. My undergraduate research interest lies in databases (DB) and theoretical computer science (TCS). We evaluate our algorithms in databases like RocksDB and Apache Flink. This research area calls for students with strong interests, unique ideas and (maybe a little bit) mathematical foundation.
+
+            If you want to collaborate with me, please feel free to contact my email.
+
+            Personal. I like psychology and photograph. For the future five years, I also want to learn foreign languages like Spanish and German, as well as pickup an instrument.
 
 publications:
     title: Selected Publications
