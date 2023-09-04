@@ -35,7 +35,7 @@ career-profile:
     title: Biography
     summary: |
     
-            Hi, I am <b>Haoyu</b> (Hao-yü, not "How-you"). You can call me Harry since most of you may have difficulty pronouncing my name :)
+            Hi, I am <b>Haoyu</b> (Hao-yü, not "How-you". If you call me "How-you", then you must have called me thousands of times). You can call me Harry since most of you may have difficulty pronouncing my name :)
             
             I am a first-year Ph.D. student at <a href="https://utns.cs.utexas.edu">UTNS</a> (UT Austin Networked Systems group), advised by Prof. <a href="https://www.cs.utexas.edu/~akella/">Aditya Akella</a> and <a href="https://daehyeok.kim">Daehyeok Kim</a>. My current research interests are networks, architectures, operating systems and machine learning. Specifically, I am interested in designing an efficient network system to boost ML training (MLSys), as well as using ML methodology to help system design (LDOS). Our projects often work on programmable switch, smart NIC, FPGA and Linux kernel.
 
