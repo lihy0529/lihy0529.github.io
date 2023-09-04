@@ -37,13 +37,21 @@ career-profile:
     
             Hi, I am <b>Haoyu</b> (Hao-yü, not "How-you". If you call me "How-you", then you must have called me thousands of times). You can call me Harry since most of you may have difficulty pronouncing my name :)
             
-            I am a first-year Ph.D. student at <a href="https://utns.cs.utexas.edu">UTNS</a> (UT Austin Networked Systems group), advised by Prof. <a href="https://www.cs.utexas.edu/~akella/">Aditya Akella</a> and <a href="https://daehyeok.kim">Daehyeok Kim</a>. My current research interests are networks, architectures, operating systems and machine learning. Specifically, I am interested in designing an efficient network system to boost ML training (MLSys), as well as using ML methodology to help system design (LDOS). Our projects often work on programmable switch, smart NIC, FPGA and Linux kernel.
+            I am a first-year Ph.D. student at <a href="https://utns.cs.utexas.edu">UTNS</a> (UT Austin Networked Systems group), advised by Prof. <a href="https://www.cs.utexas.edu/~akella/">Aditya Akella</a> and <a href="https://daehyeok.kim">Daehyeok Kim</a>. My current research interests are <b>networks, architectures, operating systems and machine learning</b>. Specifically, I am interested in designing an efficient network system to boost ML training (<b>MLSys</b>), as well as using ML methodology to help system design (<b>LDOS</b>). Our projects often work on <b>programmable switch, smart NIC, FPGA and Linux kernel</b>.
 
-            Previously, I spent four fantastic undergrad years in CS Turing Class, Peking University, worked closely with Prof. <a href="https://yangtonghome.github.io">Tong Yang</a> in the field of probabilistic algorithms. My undergraduate research interest lies in databases (DB) and theoretical computer science (TCS). We evaluate our algorithms in databases like RocksDB and Apache Flink. This research area calls for students with strong interests, unique ideas and (maybe a little bit) mathematical foundation.
+            Previously, I spent four fantastic undergrad years in CS <a href="https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm">Turing Class</a>, Peking University, worked closely with Prof. <a href="https://yangtonghome.github.io">Tong Yang</a>. My undergraduate research interest lies in <b>databases (DB)</b> and <b>theoretical computer science (TCS)</b>. Although I foucs on theory and design, evaluation are conduced in <b>real database systems like RocksDB and Apache Flink</b>. This research area calls for students with strong interests, unique ideas and (maybe a little bit) mathematical foundation.
 
-            If you want to collaborate with me, please feel free to contact my email lhy AT utexas DOT edu.
+            <b>If you want to collaborate with me (see the last sentences of above two paragraphs), please feel free to contact my email lhy AT utexas DOT edu.</b>
 
-            Personal (amateur): I like psychology and photograph. For the future five years, I want to learn foreign languages like Spanish and German, as well as pickup an instrument. I also want to practice my cooking skill further because the food in UT is too high in calories.
+career-profile: 
+    title: Personal
+        summary: |
+             
+            I like psychology and photograph. For the future five years, I want to learn foreign languages like Spanish and German, as well as pickup an instrument. 
+            
+            I also want to practice my cooking skill further because the food in UT is too high in calories.
+
+            Finally, I am 6.79 feets tall and I don't play basketball.
 
 publications:
     title: Selected Publications
