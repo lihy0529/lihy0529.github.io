@@ -35,11 +35,11 @@ career-profile:
     title: Biography
     summary: |
     
-            Hi, I am <b>Haoyu</b> (Hao-yü, not "How-you". If you call me "How-you", then you must have called me thousands of times). You can call me Harry since most of you may have difficulty pronouncing my name :)
+            Hi, I am <b>Haoyu</b> (Hao-yü, not "How-you". Otherwise you must have called me thousands of times). You can call me Harry since most of you may have difficulty pronouncing my name :)
             
             I am a first-year Ph.D. student at <a href="https://utns.cs.utexas.edu">UTNS</a> (UT Austin Networked Systems group), advised by Prof. <a href="https://www.cs.utexas.edu/~akella/">Aditya Akella</a> and <a href="https://daehyeok.kim">Daehyeok Kim</a>. My current research interests are <b>networks, architectures, operating systems and machine learning</b>. Specifically, I am interested in designing an efficient network system to boost ML training (<b>MLSys</b>), as well as using ML methodology to help system design (<b>LDOS</b>). Our projects often work on <b>programmable switch, smart NIC, FPGA and Linux kernel</b>.
 
-            Previously, I spent four fantastic undergrad years in CS <a href="https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm">Turing Class</a>, Peking University, worked closely with Prof. <a href="https://yangtonghome.github.io">Tong Yang</a>. My undergraduate research interest lies in <b>databases (DB)</b> and <b>theoretical computer science (TCS)</b>. Although I foucs on theory and design, evaluation are conduced in <b>real database systems like RocksDB and Apache Flink</b>. This research area calls for students with strong interests, unique ideas and (maybe a little bit) mathematical foundation.
+            Previously, I spent four fantastic undergrad years in CS <a href="https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm">Turing Class</a>, Peking University, worked closely with Prof. <a href="https://yangtonghome.github.io">Tong Yang</a>. My undergraduate research interest lies in <b>databases (DB)</b> and <b>theoretical computer science (TCS)</b>. Although I foucs on theory and design, evaluation are conducted in <b>real database systems like RocksDB and Apache Flink</b>. This research area calls for students with strong interests, unique ideas and (maybe a little bit) mathematical foundation.
 
             <b>If you want to collaborate with me (see the last sentences of above two paragraphs), please feel free to contact my email lhy AT utexas DOT edu.</b>
 
@@ -49,17 +49,18 @@ career-profile:
             
             I also want to practice my cooking skill further because the food in UT is too high in calories.
 
-            <b>Finally, I am 6.79 feets tall and I don't play basketball.</b>
+            <b>Finally, I am 6.79 feet tall and I don't play basketball.</b>
 
 publications:
     title: Selected Publications
     intro: (A full list can be seen on <a href="https://scholar.google.com/citations?hl=en&user=g4dsmuoAAAAJ">Google Scholar</a>)
     papers:
       - title: "ChainedFilter: Combining Membership Filters by Chain Rule."
-        #link: "./papers/steady_iwqos.pdf"
+        link: https://arxiv.org/abs/2308.13632
         authors: <b><u>Haoyu Li</u></b>, Liuhui Wang, Qizhi Chen, Jianan Ji, Yuhan Wu, Yikai Zhao, Tong Yang, Aditya Akella.
         conference: "SIGMOD 2024."
       - title: "StingySketch: a Sketch Framework for Accurate and Fast Frequency Estimation."
         authors: <b><u>Haoyu Li</u></b>, Qizhi Chen, Yixin Zhang, Tong Yang, Bin Cui.
+        link: https://dl.acm.org/doi/abs/10.14778/3523210.3523220
         conference: "VLDB 2022."
 
