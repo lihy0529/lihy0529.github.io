@@ -56,11 +56,11 @@ publications:
     intro: (A full list can be seen on <a href="https://scholar.google.com/citations?hl=en&user=g4dsmuoAAAAJ">Google Scholar</a>)
     papers:
       - title: "ChainedFilter: Combining Membership Filters by Chain Rule."
-        link: https://youtu.be/FnHM4F0w6CM?feature=shared
+        link: https://youtu.be/FnHM4F0w6CM
         authors: <b><u>Haoyu Li</u></b>, Liuhui Wang, Qizhi Chen, Jianan Ji, Yuhan Wu, Yikai Zhao, Tong Yang, Aditya Akella.
         conference: "SIGMOD 2024."
       - title: "StingySketch: a Sketch Framework for Accurate and Fast Frequency Estimation."
         authors: <b><u>Haoyu Li</u></b>, Qizhi Chen, Yixin Zhang, Tong Yang, Bin Cui.
-        link: https://dl.acm.org/doi/abs/10.14778/3523210.3523220
+        link: https://youtu.be/v26yRz5U7rI
         conference: "VLDB 2022."
 
