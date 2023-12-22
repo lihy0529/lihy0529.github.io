@@ -1,1 +1,0 @@
-This page is published based on the theme from [Ya-Qi Yu](https://github.com/yuyq96/yuyq96.github.io).
