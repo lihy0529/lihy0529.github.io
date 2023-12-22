@@ -1,0 +1,95 @@
+
+
+<html>
+
+<head>
+
+<title>Haoyu Li</title>
+
+<style>
+  .header {
+    display: flex;
+    align-items: flex-start;
+  }
+  .header-image1 {
+    margin-left: 100px;
+    max-width: 250px; /* Adjust the width of the image */
+  }
+  .header-image2 {
+    margin-left: 100px;
+    max-width: 650px; /* Adjust the width of the image */
+  }
+</style>
+
+
+</head>
+
+<body>
+
+  <div class="header">
+    <div>
+      <h1>Haoyu Li</h1>
+
+      <p>
+        GDC 6.818D<br/>
+        2317 Speedway<br/>
+        Austin, TX 78705
+      </p>
+
+      <p>Email: lhy@utexas.edu</p>
+      <a href="cv.pdf">CV</a></p>
+      <a href="https://scholar.google.com/citations?hl=en&user=g4dsmuoAAAAJ">Google Scholar</a></p>
+    </div>
+    
+    <img src="photo_homepage_1.jpg" id="image1" class="header-image1" style="display:none;">
+    <img src="photo_homepage_2.jpg" id="image2" class="header-image2" style="display:none;">
+  </div>
+
+
+  <script>
+    window.onload = function() {
+      // Get both images by ID
+      var image1 = document.getElementById('image1');
+      var image2 = document.getElementById('image2');
+  
+      // Randomly choose an image to display
+      if (Math.random() < 0.5) {
+        image1.style.display = 'block';
+      } else {
+        image2.style.display = 'block';
+      }
+    };
+  </script>
+
+   <h2>About</h2>
+            I am a first-year Ph.D. student at <a href="https://utns.cs.utexas.edu">UTNS</a> (UT Austin Networked Systems group), advised by Prof. <a href="https://www.cs.utexas.edu/~akella/">Aditya Akella</a> and <a href="https://daehyeok.kim">Daehyeok Kim</a>. My current research interests are <b>networks, architectures, operating systems and machine learning</b>. Specifically, I am interested in designing an efficient network system to boost ML training, as well as using ML methodology to help system design. Our projects often work on <b>programmable switch, smart NIC, FPGA and Linux kernel</b>.
+
+            Previously, I spent four fantastic undergrad years in CS <a href="https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm">Turing Class</a>, Peking University, worked closely with Prof. <a href="https://yangtonghome.github.io">Tong Yang</a>. My undergraduate research interest lies in <b>databases</b> and <b>theoretical computer science</b>.
+
+
+
+
+   <h2>Selected Publications</h2>
+   (A full list can be seen on <a href="https://scholar.google.com/citations?hl=en&user=g4dsmuoAAAAJ">Google Scholar</a>)
+   <ol>
+    <li>
+     <b>ChainedFilter: Combining Membership Filters by Chain Rule.</b> <br />
+     <i><b><u>Haoyu Li</u></b>, Liuhui Wang, Qizhi Chen, Jianan Ji, Yuhan Wu, Yikai Zhao, Tong Yang, Aditya Akella.</i> <br />
+     SIGMOD 2024. [<a href="https://youtu.be/FnHM4F0w6CM">Video</a>] [<a href="https://dl.acm.org/doi/10.1145/3626721">Paper</a>]
+    </li>
+   <li>
+     <b>StingySketch: a Sketch Framework for Accurate and Fast Frequency Estimation.</b> <br />
+     <i><b><u>Haoyu Li</u></b>, Liuhui Wang, Qizhi Chen, Jianan Ji, Yuhan Wu, Yikai Zhao, Tong Yang, Aditya Akella.</i> <br />
+     SIGMOD 2024. [<a href="https://youtu.be/v26yRz5U7rI">Video</a>] [<a href="https://dl.acm.org/doi/abs/10.14778/3523210.3523220">Paper</a>]
+    </li>
+
+  </ol>
+
+
+
+
+
+</body>
+</html>
+
+
