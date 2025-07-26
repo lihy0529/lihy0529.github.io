@@ -1,130 +1,94 @@
-
-
-<html>
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
-
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
 <title>Haoyu Li</title>
-
-<style>
-  .header {
-    display: flex;
-    align-items: flex-start;
-  }
-  .header-image1 {
-    margin-left: 100px;
-/*     max-width: 250px; /* Adjust the width of the image */
-  }
-  .header-image2 {
-    margin-left: 100px;
-    max-width: 650px; /* Adjust the width of the image */
-  }
-</style>
-
-
 </head>
-
 <body>
-
-  <div class="header">
-    <div>
-      <h1>Haoyu Li</h1>
-
-      <p>
-        GDC 6.818D<br/>
-        2317 Speedway<br/>
-        Austin, TX 78712
-  	
-<!-- 	2831B<br/>
-	14820 NE 36th St<br/>
-	Redmond, WA 98052 -->
-	</p>
-      <p>Email: <a href="mailto:lhy@utexas.edu">lhy@utexas.edu</a></p>
-      <a href="CV.pdf">CV</a></p>
-      <a href="https://scholar.google.com/citations?hl=en&user=g4dsmuoAAAAJ">Google Scholar</a></p>
-    </div>
-    
-    <img src="photo_homepage_1.jpg" id="image1" class="header-image1" style="display:none; height: 250px;">
-    <img src="photo_homepage_2.jpg" id="image2" class="header-image2" style="display:none; height: 250px;">
-    <img src="photo_homepage_3.jpg" id="image3" class="header-image3" style="display:none; height: 250px;">
-
-  </div>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Haoyu Li</div>
+<div class="menu-item"><a href="index.html" class="current">About</a></div>
+<div class="menu-item"><a href="https://scholar.google.com/citations?hl=en&user=g4dsmuoAAAAJ">Google Scholar</a></div>
+<div class="menu-item"><a href="CV/CV.pdf">CV</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Haoyu Li </h1>
+</div>
+<table class="imgtable"><tr><td>
+<a href="https://github.com/lihy0529"><img src="photos/bio.jpg" alt="alt text" width="195px" height="260px" /></a>&nbsp;</td>
+<td align="left"><p><b>PhD Student</b> <br /> <br />
+  Department of Computer Science, <br />
+  The University of Texas at Austin <br />
+  Austin, TX <br /> <br />
 
 
-  <script>
-    window.onload = function() {
-      // Get both images by ID
-      var image1 = document.getElementById('image1');
-      var image2 = document.getElementById('image2');
-  
-      // Randomly choose an image to display
-      if (Math.random() < 1) {
-        image1.style.display = 'block';
-      } else if (Math.random() < 0.8) {
-        image1.style.display = 'block';
-      } else {
-	image1.style.display = 'block';
-      }
-    };
-  </script>
+E-mail: <a href="mailto:lhy@utexas.edu">lhy@utexas.edu</a> <br /> <br />
 
-   <h2>About</h2>
-   <p>I am a second-year Ph.D. student at <a href="https://utns.cs.utexas.edu">UTNS</a> (UT Austin Networked Systems group), advised by Prof. <a href="https://www.cs.utexas.edu/~akella/">Aditya Akella</a> and <a href="https://www.cs.utexas.edu/~venkatar/">Venkat Arun</a>.</p>
-	   
-   <p>I am interested in machine learning for systems and systems for machine learning. I do research for industry. </p>
-	   
-   <p>In 2023, I got my BS degree at <a href="https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm">Turing Class</a>, Peking University, worked with Prof. <a href="https://yangtonghome.github.io">Tong Yang</a>.</p>
+<b>Research Interests:</b><br />
+&bull; Machine Learning for Systems <br />
+&bull; Systems for Machine Learning<br /> <br />
 
+<a href="https://scholar.google.com/citations?hl=en&user=g4dsmuoAAAAJ" target="_blank" style="text-decoration: none; font-weight: bold;">
+    <i class="fas fa-graduation-cap"></i> Google Scholar
+</a>
+<br /><br />
 
+</td></tr></table>
+<h2>About me</h2>
+<p>I am a third-year Ph.D. student at <a href="https://utns.cs.utexas.edu/">UTNS</a> (UT Austin Networked Systems group), advised by Prof. <a href="https://www.cs.utexas.edu/~akella/">Aditya Akella</a> and Prof. <a href="https://www.cs.utexas.edu/~venkatar/">Venkat Arun</a>.<br /> <br />
+My research applies AI techniques to improve performance (e.g., throughput, latency) and usability of modern computer systems, such as data analytics, ML training/serving frameworks, OS, and networks.<br /> <br />
+In 2023, I got my BS degree at Turing Class, Peking University, worked with Prof. <a href="https://yangtonghome.github.io/">Tong Yang</a>.</p>
 
+<h2>Preprints</h2>
+<ol>
+ <li>
+  <i><b><u>Haoyu Li</u></b>, Srikanth Kandula, Maria Angels de Luis Balaguer, Aditya Akella, Venkat Arun.</i> <br />
+  <b><a href="https://arxiv.org/pdf/2503.00714">Speculative Ad-hoc Querying.</a></b> [<a href="https://github.com/lihy0529/SpeQL/tree/main">Code</a>]<br /> <br />
+ </li>
+ <li>
+  <i><b><u>Haoyu Li</u></b>, Yuchen Xu, Jiayi Chen, Rohit Dwivedula, Wenfei Wu, Keqiang He, Aditya Akella, Daehyeok Kim.</i><br /> <b><a href="https://arxiv.org/pdf/2402.07529">Accelerating Distributed Deep Learning using Lossless Homomorphic Compression.</a></b> <br />
+ </li>
+</ol>
 
-   <h2>Selected publications</h2>
-   <ol>
-    <li>
-     <b><a href="https://arxiv.org/pdf/2503.00714">Speculative Ad-hoc Querying.</a></b> <i><b><u>Haoyu Li</u></b>, Srikanth Kandula, Maria Angels de Luis Balaguer, Aditya Akella, Venkat Arun.</i> Preprint. [<a href="https://github.com/lihy0529/SpeQL/tree/main">Code</a>]<br />
-    </li>
-    <li>
-     <b><a href="https://arxiv.org/abs/2402.07529">Accelerating Distributed Deep Learning using Lossless Homomorphic Compression.</a></b> <i><b><u>Haoyu Li</u></b>, Yuchen Xu, Jiayi Chen, Rohit Dwivedula, Wenfei Wu, Keqiang He, Aditya Akella, Daehyeok Kim.</i> Preprint.<br />
-    </li>
-    <li>
-     <b><a href="https://dl.acm.org/doi/10.1145/3626721">ChainedFilter: Combining Membership Filters by Chain Rule.</a></b> <i><b><u>Haoyu Li</u></b>, Liuhui Wang, Qizhi Chen, Jianan Ji, Yuhan Wu, Yikai Zhao, Tong Yang, Aditya Akella.</i> SIGMOD 2024.<br />
-    </li>
-   <li>
-     <b><a href="https://dl.acm.org/doi/abs/10.14778/3523210.3523220">StingySketch: a Sketch Framework for Accurate and Fast Frequency Estimation.</a></b> <i><b><u>Haoyu Li</u></b>, Qizhi Chen, Yixin Zhang, Tong Yang, Bin Cui.</i> VLDB 2022.<br />
-    </li>
-<!--    <li>
-     <b>SteadySketch: Finding Steady Flows in Data Streams.</b> <br />
-     <i>Xiaodong Li, Zhuochen Fan, <b><u>Haoyu Li</u></b>, Zheng Zhong, Jiarui Guo, Shiqi Long, Tong Yang, Bin Cui. </i> <br />
-     IWQoS 2023. [<a href="https://ieeexplore.ieee.org/abstract/document/10188743">Paper</a>]
-    </li>
-    <li>
-    <b>Rencoder: A Space-time Efficient Range Filter with Local Encoder. </b> <br />
-    <i>Ziwei Wang, Zheng Zhong, Jiarui Guo, Yuhan Wu, <b><u>Haoyu Li</u></b>, Tong Yang, Yaofeng Tu, Huanchen Zhang, Bin Cui. </i> <br />
-     ICDE 2023. [<a href="https://ieeexplore.ieee.org/abstract/document/10184876">Paper</a>]
-    </li>
-   <li>
-	   <b>Wind-Bell Index: Towards Ultra-Fast Edge Query for Graph Databases. </b> <br />
-	   <i>Rui Qiu, Yi Ming, Yisen Hong, <b><u>Haoyu Li</u></b>, Tong Yang. </i> <br />
-     ICDE 2023. [<a href="https://ieeexplore.ieee.org/abstract/document/10184541">Paper</a>]
-    </li> -->
-
-  </ol>
-
-	<h2>Experience</h2>
-   <ol>
-    <li>
-     <b>Research Assistant. </b> UT Austin, 2023-2024.<br />
-    </li>
+<h2>Peer-reviewed Publications</h2>
+<ol>
+ <li>
+  <i><b><u>Haoyu Li</u></b>, Liuhui Wang, Qizhi Chen, Jianan Ji, Yuhan Wu, Yikai Zhao, Tong Yang, Aditya Akella.</i> <br />
+  <b><a href="https://dl.acm.org/doi/10.1145/3626721">ChainedFilter: Combining Membership Filters by Chain Rule.</a></b> <br />
+  In Proceedings of the ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD), 2024.<br /> <br />
+ </li>
 <li>
-     <b>Research Intern. </b> Microsoft Corp., 2024 Summer.
-    </li>
+  <i><b><u>Haoyu Li</u></b>, Qizhi Chen, Yixin Zhang, Tong Yang, Bin Cui.</i> <br />
+  <b><a href="https://dl.acm.org/doi/abs/10.14778/3523210.3523220">StingySketch: a Sketch Framework for Accurate and Fast Frequency Estimation.</a></b> <br />
+  In Proceedings of the VLDB Endowment (PVLDB), 2022.
+ </li>
+</ol>
 
-  </ol>
+<h2>Experience</h2>
+<ol>
+ <li>
+  <b>Research Assistant. </b> UT Austin, 2023-2024.<br />
+ </li>
+<li>
+  <b>Research Intern. </b> Microsoft Corp., 2024 Summer.
+ </li>
+</ol>
 
+<hr style="margin-top: 30px; margin-bottom: 15px; border: none; border-top: 1px solid #ddd;">
 
+<p style="font-size: 12px; color: #666; text-align: center; margin-bottom: 20px;">
+Last update: July 26, 2025. Template courtesy of <a href="https://github.com/XiuzeZhou/xiuzezhou.github.io" target="_blank" style="color: #666;">XiuzeZhou.</a>
+</p>
 
-
+</td>
+</tr>
+</table>
 </body>
 </html>
-
-
